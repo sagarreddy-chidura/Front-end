@@ -1,0 +1,59 @@
+header{
+    text-align: center;
+    font-size: 300%;
+    color: aliceblue;
+}
+footer{
+    text-align: center;
+    font-size: 300%;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#box{
+    border-style: solid;
+    border-radius: 30px;
+    width: 250px;
+    padding-left: 5px;
+    background-image: linear-gradient(to right,rgb(168, 164, 164), red);
+}
+.h{
+    height: 920px;
+    background-color: white;
+}
+#form1 * {
+    background-image: linear-gradient(to right, black, red);
+}
+.bugati{
+    padding-left: 5px;
+    padding-top: 10px;
+
+    height: 900px;
+    width: 1500px;
+    border-radius: 50px;
+    background-color: white;
+}
+input{
+    color: white;
+}
+.class1{
+    border-style: dotted;
+    border-radius: 10px;
+    border-color:black;
+    /*border-width: 5px;*/
+    color: white;
+    text-decoration-color: white;
+    /*border-color: red;*/
+    border-width: 5px;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    height: 320px;
+    /*background-color: black;*/
+    background-image: linear-gradient(to right, black, red);
+}
