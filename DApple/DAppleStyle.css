@@ -1,0 +1,114 @@
+/* your code here */
+body{
+  background-color: mediumspringgreen ;
+  display:flex-end;
+}
+.product{
+  display:flex-end;
+  margin-bottom: 20%;
+  margin-right:20px;
+  margin-top:5%;
+  align-content: center;
+}
+.product__photo{
+  display:flex-end;
+  border-style: solid;
+  background-color: white;
+  border: none;
+  border-radius:5px;
+  height:550px;
+  width: 600px;
+  padding-top:5%;
+  margin-top:10%;
+  margin-left:15%;
+  margin-right:150px;
+}
+.photo-container{
+  display:flex-end;
+  border-radius: 5px;
+  border-style: solid;
+  border-radius:5px;
+  border: none;
+  background: greenyellow;
+  height:500px;
+  width: 330px;
+  margin-left: -10%;
+  margin-right: 35%;
+}
+.photo-main{
+  margin-left:-60px;
+}
+.photo-album{
+  margin-top:25px;
+  padding-left: 50px;
+  padding-bottom: 15px;
+  border-style: solid;
+  background: white;
+  border: none;
+  border-radius:5px;
+  padding-top: 30px;
+  
+}
+.variant{
+  padding-left:10%;
+  padding-right:10%;
+  color: grey;
+}
+.fa-share-alt,.fa-heart-o {
+ color: white; 
+}
+.fa+.fa-heart-o{
+  padding-left:260px;
+}
+.fa{
+  padding-left: 80px;
+  padding-top: 10px;
+}
+.buy--btn{
+  background:red;
+  color:white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  margin-top:70px;
+  margin-left: 10%;
+  border:none;
+}
+.product__info{
+  /*align-content:center;*/
+  display:flex-end;
+  margin-top:-550px;
+  margin-left: 400px;
+  position: absolute;
+}
+.variant h3{
+  margin-left:-35px;
+  color: grey;
+}
+.description h3{
+  margin-left: 10px;
+  color:grey;
+}
+.photo-album img{
+  border-style: solid;
+  border-color: whitesmoke;
+}
+.variant img{
+  height:40px;
+}
+.title{
+  margin-left:10px;
+}
+.title h1{
+  color: graytext;
+}
+.title span{
+  color: grey;
+  font-size:10px;
+}
+.price{
+  color: red;
+  margin-left:10px;
+}
+.price span{
+  font-size: 40px;
+}
