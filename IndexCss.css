@@ -1,4 +1,12 @@
 body{
-    background-color: crimson;
+    background-color: rgb(130, 202, 174);
     color: white;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
 }
